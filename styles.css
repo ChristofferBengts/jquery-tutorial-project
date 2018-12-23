@@ -70,5 +70,34 @@ body {
 
 }
 
+
 /* end header styles*/
 
+
+textarea {
+
+    resize: none;
+    border-top: none;
+    border-color: grey;
+
+}
+
+.panel {
+
+    float: left;
+    width: 50%;
+    border-left: none;
+
+}
+
+iframe {
+
+    border: none;
+
+}
+
+.hidden {
+
+    display: none;
+
+}
